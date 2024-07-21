@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/SuppliesPro-Website/static/css/main.a1c9649a.chunk.css",
-    "main.js": "/SuppliesPro-Website/static/js/main.f50c15db.chunk.js",
-    "main.js.map": "/SuppliesPro-Website/static/js/main.f50c15db.chunk.js.map",
-    "runtime~main.js": "/SuppliesPro-Website/static/js/runtime~main.6cf3c3ed.js",
-    "runtime~main.js.map": "/SuppliesPro-Website/static/js/runtime~main.6cf3c3ed.js.map",
-    "static/js/2.7bfc216c.chunk.js": "/SuppliesPro-Website/static/js/2.7bfc216c.chunk.js",
-    "static/js/2.7bfc216c.chunk.js.map": "/SuppliesPro-Website/static/js/2.7bfc216c.chunk.js.map",
-    "static/js/3.b265e9c7.chunk.js": "/SuppliesPro-Website/static/js/3.b265e9c7.chunk.js",
-    "static/js/3.b265e9c7.chunk.js.map": "/SuppliesPro-Website/static/js/3.b265e9c7.chunk.js.map",
-    "index.html": "/SuppliesPro-Website/index.html",
-    "precache-manifest.09cf3f1f041f61562bf66583f71bcb92.js": "/SuppliesPro-Website/precache-manifest.09cf3f1f041f61562bf66583f71bcb92.js",
-    "service-worker.js": "/SuppliesPro-Website/service-worker.js",
-    "static/css/main.a1c9649a.chunk.css.map": "/SuppliesPro-Website/static/css/main.a1c9649a.chunk.css.map"
+    "main.css": "/Prototype/static/css/main.a1c9649a.chunk.css",
+    "main.js": "/Prototype/static/js/main.35c25c24.chunk.js",
+    "main.js.map": "/Prototype/static/js/main.35c25c24.chunk.js.map",
+    "runtime~main.js": "/Prototype/static/js/runtime~main.a2d036f9.js",
+    "runtime~main.js.map": "/Prototype/static/js/runtime~main.a2d036f9.js.map",
+    "static/js/2.7bfc216c.chunk.js": "/Prototype/static/js/2.7bfc216c.chunk.js",
+    "static/js/2.7bfc216c.chunk.js.map": "/Prototype/static/js/2.7bfc216c.chunk.js.map",
+    "static/js/3.b265e9c7.chunk.js": "/Prototype/static/js/3.b265e9c7.chunk.js",
+    "static/js/3.b265e9c7.chunk.js.map": "/Prototype/static/js/3.b265e9c7.chunk.js.map",
+    "index.html": "/Prototype/index.html",
+    "precache-manifest.3267619c1b6f072a4898c3261f45382a.js": "/Prototype/precache-manifest.3267619c1b6f072a4898c3261f45382a.js",
+    "service-worker.js": "/Prototype/service-worker.js",
+    "static/css/main.a1c9649a.chunk.css.map": "/Prototype/static/css/main.a1c9649a.chunk.css.map"
   }
 }
